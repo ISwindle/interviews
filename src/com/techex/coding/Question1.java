@@ -1,6 +1,6 @@
 package com.techex.coding;
 
-
+// Create a Fibonacci Series
 public class Question1 {
     public static int [] fibo(int degrees){
         int prev1 = 0;
